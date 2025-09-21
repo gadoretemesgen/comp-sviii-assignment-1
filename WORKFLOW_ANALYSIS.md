@@ -1,3 +1,4 @@
+*(Added more detail for clarity on branching)*
 # Workflow Analysis
 
 ## Question 1: What is the purpose of using branches in GitHub?
